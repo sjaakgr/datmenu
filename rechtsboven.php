@@ -1,1 +1,2 @@
-<?php echo "jaja" . '<BR>';
+<?php 
+    echo "jaja" . "<BR>";
